@@ -21,6 +21,7 @@ Specify it in your podfile;
 use_frameworks!
 
 pod 'Moscapsule', :git => 'https://github.com/flightonary/Moscapsule.git'
+pod 'Moscapsule2', :git => 'https://github.com/RickyVaughn2/Moscapsule2.git'
 pod 'OpenSSL-Universal', '~> 1.0.1.18'
 ```
 
